@@ -1,9 +1,2 @@
 #!/bin/bash
-echo
-ls -al
-echo
-echo
-ls -al ..
-echo
-echo
-ls -al /boot
+ls -la  . .. /boot
